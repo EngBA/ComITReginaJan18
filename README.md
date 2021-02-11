@@ -17,7 +17,7 @@ Students that have joined
 - [x] Eric Banigo
 - [x] Kalpesh Kunvar
 - [ ] Dornubari Dumpe
-- [x] Bilal Alissa
+- [ ] Bilal Alissa
 - [x] Eman Badreldin
 - [ ] Enesoso Charles
 - [x] Gayatri Kunvar
