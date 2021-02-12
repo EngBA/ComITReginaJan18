@@ -17,7 +17,7 @@ Students that have been invited and joined
 - [x] Eric Banigo
 - [x] Kalpesh Kunvar
 - [ ] Dornubari Dumpe
-- [ ] Bilal Alissa
+- [x] Bilal Alissa
 - [x] Eman Badreldin
 - [ ] Enesoso Charles
 - [x] Gayatri Kunvar
